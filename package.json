@@ -1,0 +1,13 @@
+{
+  "name": "type-script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<kamiyagunji@icloud.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
